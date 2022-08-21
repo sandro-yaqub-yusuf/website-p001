@@ -11,7 +11,7 @@
 
 ## Descrição
 
-Pequeno projeto em Javascript (site em HTML5 e CSS3) para simular uma salão de beleza.
+Pequeno projeto em Javascript (site em HTML5 e CSS3) para simular um salão de beleza.
 
 ----
 
