@@ -1,11 +1,11 @@
 # WebSite - Projeto 001
 
-* Linguagem principal: Javascript
-* Outras linguagens: HTML5 e CSS3
+* Linguagem principal: HTML5 e CSS3
+* Outras linguagens: Javascript
 * Frameworks utilizadas: nenhum
 * Banco de Dados utilizado: nenhum
 * Editor utilizado: Visual Studio Code
-* Informações extras: Necessita conhecimentos médios em Javascript, HTML5 e CSS3.
+* Informações extras: Necessita conhecimentos médios em HTML5, CSS3 e Javascript.
 
 ----
 
