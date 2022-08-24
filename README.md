@@ -5,7 +5,7 @@
 * Frameworks utilizadas: nenhum
 * Banco de Dados utilizado: nenhum
 * Editor utilizado: Visual Studio Code
-* Informações extras: Necessita conhecimentos médios em HTML5, CSS3 e Javascript.
+* Informações extras: Precisa ter conhecimentos médios em HTML5, CSS3 e Javascript
 
 ----
 
